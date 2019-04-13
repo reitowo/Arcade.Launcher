@@ -3,7 +3,7 @@ A program for downloading Arcaea Fanmade Chart Maker 'Arcade'
 
 Go [`Release`](https://github.com/cnSchwarzer/Arcade.Launcher/releases).
 
-The repo 'cnSchwarzer/Arcade' has been DMCA takedown by lowiro. So there will be no source code here.
+The repo `cnSchwarzer/Arcade` has been DMCA takedown by lowiro, also being deleted by me. So there will be no source code here.
 
 ## To lowiro:
 
