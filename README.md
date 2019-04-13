@@ -1,7 +1,7 @@
 # Arcade.Launcher
 A program for downloading Arcaea Fanmade Chart Maker 'Arcade'
 
-Go `[Release](https://github.com/cnSchwarzer/Arcade.Launcher/releases)`.
+Go [`Release`](https://github.com/cnSchwarzer/Arcade.Launcher/releases).
 
 The repo 'cnSchwarzer/Arcade' has been DMCA takedown by lowiro. So there will be no source code here.
 
